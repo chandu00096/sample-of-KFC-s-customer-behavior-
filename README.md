@@ -1,4 +1,4 @@
-# 📊 KFC Hyderabad Branch $ Customer Sales Analysis - Power BI Report
+# 📊 KFC Hyderabad Branch & Customer Sales Analysis - Power BI Report
 
 ## 🧾 Project Overview
 
@@ -90,5 +90,5 @@ Track the customer journey from entering the outlet/website to becoming repeat b
 
 **Mohan Chandu Mamillapalli**  
 📧 chandumamillapalli425@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/chandu425/)| [GitHub](https://github.com/chandu00096) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/chandu425/)| [GitHub](https://github.com/chandu00096) | 
 
